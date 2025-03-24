@@ -1,0 +1,81 @@
+ros-jazzy-turtlebot4-description (2.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 24 Sep 2024 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (2.0.0-1trixie) trixie; urgency=high
+
+  * Add base_footprint link to URDF
+  * Contributors: Chris Iverach-Brereton
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Wed, 28 Aug 2024 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.5-1trixie) trixie; urgency=high
+
+  * Fix typo in rplidar.dae (#320 <https://github.com/turtlebot/turtlebot4/issues/320>)
+    Co-authored-by: Gaël Écorchard <mailto:gael@km-robotics.cz>
+  * Contributors: Gaël Écorchard
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 01 Jul 2024 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.4-1trixie) trixie; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 07 Nov 2023 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.3-1trixie) trixie; urgency=high
+
+  * Added joint_state_publisher dependency
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Tue, 30 May 2023 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.2-1trixie) trixie; urgency=high
+
+  * New maps and Improved Nav2 Config
+  * Added namespace arg to urdf for namespacing support in sim
+  * Replaced wheel drop static transforms with joint state publisher
+  * Contributors: Hilary Luo, Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Sun, 14 May 2023 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.1-1trixie) trixie; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 27 Feb 2023 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (1.0.0-1trixie) trixie; urgency=high
+
+  * Updates for new DepthAI node.
+  * Added tf_static remapping to support namespacing
+  * Updated oakd link names to match new oakd node
+  * Added fix for wheeldrop frames not found by Rviz
+  * Namespacing
+  * Remap tf topics to not use global namespace
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Thu, 16 Feb 2023 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (0.1.2-1trixie) trixie; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Wed, 14 Sep 2022 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (0.1.1-1trixie) trixie; urgency=high
+
+
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 11 Jul 2022 16:00:00 -0000
+
+ros-jazzy-turtlebot4-description (0.1.0-1trixie) trixie; urgency=high
+
+  * First Galactic release
+  * Contributors: Roni Kreinin
+
+ -- rkreinin <rkreinin@clearpathrobotics.com>  Mon, 02 May 2022 16:00:00 -0000
+
+
